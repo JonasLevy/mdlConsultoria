@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Link para o Sitemap (ajuste a URL final do seu domínio)
+Sitemap: https://mdlconsultoria.com.br/sitemap.xml
